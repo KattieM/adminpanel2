@@ -1,0 +1,585 @@
+[17-Dec-2017 17:20:07 Europe/Berlin] PHP Notice:  Undefined index: name in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 16
+[17-Dec-2017 17:20:07 Europe/Berlin] PHP Notice:  Undefined index: description in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 17
+[17-Dec-2017 17:20:07 Europe/Berlin] PHP Notice:  Undefined index: name in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 16
+[17-Dec-2017 17:20:07 Europe/Berlin] PHP Notice:  Undefined index: description in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 17
+[17-Dec-2017 17:20:07 Europe/Berlin] PHP Notice:  Undefined index: name in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 16
+[17-Dec-2017 17:20:07 Europe/Berlin] PHP Notice:  Undefined index: description in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 17
+[17-Dec-2017 17:20:07 Europe/Berlin] PHP Notice:  Undefined index: name in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 16
+[17-Dec-2017 17:20:07 Europe/Berlin] PHP Notice:  Undefined index: description in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 17
+[17-Dec-2017 18:14:46 Europe/Berlin] PHP Notice:  Undefined index: type_user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:15:00 Europe/Berlin] PHP Notice:  Undefined index: type_user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:25:53 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:26:03 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:27:10 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:28:44 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:29:12 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:29:45 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:30:00 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:30:57 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Users::addNew(), 4 passed in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 11 and exactly 5 expected in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:12
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php(11): Users::addNew(Object(mysqli), 'adshjka', 'adsf', 'a@asd.com')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 12
+[17-Dec-2017 18:32:35 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:32:35 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 14
+[17-Dec-2017 18:33:13 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:33:13 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 14
+[17-Dec-2017 18:34:23 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:34:23 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 16
+[17-Dec-2017 18:34:36 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:34:37 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 16
+[17-Dec-2017 18:34:47 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:34:47 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 15
+[17-Dec-2017 18:34:47 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 16
+[17-Dec-2017 18:35:02 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:35:02 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 15
+[17-Dec-2017 18:35:03 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 16
+[17-Dec-2017 18:35:09 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:35:09 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 15
+[17-Dec-2017 18:35:09 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 16
+[17-Dec-2017 18:44:53 Europe/Berlin] PHP Notice:  Undefined index: tip[] in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:44:53 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:44:53 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 15
+[17-Dec-2017 18:44:53 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 16
+[17-Dec-2017 18:45:00 Europe/Berlin] PHP Notice:  Undefined index: tip[] in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:45:00 Europe/Berlin] PHP Warning:  Invalid argument supplied for foreach() in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 10
+[17-Dec-2017 18:45:00 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 15
+[17-Dec-2017 18:45:00 Europe/Berlin] PHP Notice:  Undefined variable: tip in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 16
+[17-Dec-2017 18:45:31 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:45:31 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 14
+[17-Dec-2017 18:46:00 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 15
+[17-Dec-2017 18:46:00 Europe/Berlin] PHP Notice:  Array to string conversion in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php on line 14
+[17-Dec-2017 23:06:48 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:06:48 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:06:48 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:06:48 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:11:03 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:11:03 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:11:03 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:11:03 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:11:11 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:11:11 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:11:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(4): Users::returnOne(Object(mysqli), NULL)
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:11:14 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:11:14 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:11:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(4): Users::returnOne(Object(mysqli), NULL)
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:11:44 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:11:44 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:11:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(4): Users::returnOne(Object(mysqli), NULL)
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:11:46 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:11:46 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:11:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(4): Users::returnOne(Object(mysqli), NULL)
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:12:02 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:12:03 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:12:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(4): Users::returnOne(Object(mysqli), NULL)
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:12:22 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:12:22 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:12:22 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:12:22 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:12:24 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:12:24 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:12:24 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:12:24 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:12:36 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:12:36 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:12:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(4): Users::returnOne(Object(mysqli), NULL)
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:12:38 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:12:38 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 4
+[17-Dec-2017 23:12:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(4): Users::returnOne(Object(mysqli), NULL)
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:13:13 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:13:13 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:13:13 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:13:13 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:13:34 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:13:34 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:13:34 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:13:34 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:14:45 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:14:45 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:14:45 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:14:45 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:14:47 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[17-Dec-2017 23:14:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(5): Users::returnOne(Object(mysqli), '')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:14:50 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:14:50 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:14:50 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:14:50 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:15:35 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:15:35 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:15:35 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:15:35 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:24:01 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:24:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:24:01 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:24:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:24:01 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:24:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:24:01 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:24:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:24:02 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:24:02 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:24:02 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:24:02 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:24:09 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[17-Dec-2017 23:24:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(5): Users::returnOne(Object(mysqli), 'katy@gmail.com')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:25:09 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:25:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:25:09 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:25:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:25:09 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:25:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:25:09 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:25:09 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:25:10 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:25:10 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:25:10 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:25:10 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:25:18 Europe/Berlin] PHP Deprecated:  Non-static method Users::returnOne() should not be called statically in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[17-Dec-2017 23:25:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:27
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(5): Users::returnOne(Object(mysqli), 'katy@gmail.com')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 27
+[17-Dec-2017 23:26:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Type_Of_Users' not found in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:29
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(5): Users::returnOne(Object(mysqli), 'katy@gmail.com')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 29
+[17-Dec-2017 23:26:28 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:26:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:26:28 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:26:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:26:28 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:26:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:26:28 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:26:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:26:29 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:26:29 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:26:29 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:26:29 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:26:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Type_Of_Users' not found in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:29
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(5): Users::returnOne(Object(mysqli), 'katy@gmail.com')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 29
+[17-Dec-2017 23:27:25 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:27:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:27:25 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:27:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:27:25 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:27:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:27:25 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:27:25 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:27:26 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:26 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:26 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:26 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:26 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:27:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Undefined variable: user in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:27 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:27:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:27:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:27:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:27:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:27:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:27:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:27:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:27:30 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:30 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:30 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:30 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:34 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:27:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:27:34 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:27:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:27:34 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:27:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:27:34 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:27:34 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:27:36 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:36 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:36 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:27:36 Europe/Berlin] PHP Notice:  Undefined index: type_id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\Type_Of_Users.php on line 15
+[17-Dec-2017 23:28:41 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:28:41 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:28:41 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:28:41 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:28:41 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:28:41 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:28:41 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:28:41 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:28:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:28:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:28:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:28:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:28:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:28:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:28:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:28:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:29:52 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:29:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:29:52 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:29:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:29:52 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:29:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:29:52 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:29:52 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:30:54 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:30:54 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:30:54 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:30:54 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:30:54 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:30:54 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:30:54 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:30:54 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:31:54 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:31:54 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:31:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:31:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:33:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:33:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:33:56 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:33:56 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:34:35 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:34:35 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:34:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:34:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:34:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:34:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:34:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:34:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:34:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:34:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:34:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:34:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:34:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:34:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:34:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:34:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:35:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:35:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:35:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:35:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:35:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:35:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:35:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:35:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:35:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Type_Of_Users' not found in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:29
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(5): Users::returnOne(Object(mysqli), 'katy@gmail.com')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 29
+[17-Dec-2017 23:35:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class 'Type_Of_Users' not found in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:29
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(5): Users::returnOne(Object(mysqli), 'katy@gmail.com')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 29
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:37:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:37:46 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[17-Dec-2017 23:37:46 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:37:46 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:37:46 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:37:47 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:37:47 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:37:47 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:37:47 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:37:47 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:39:31 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:39:31 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[17-Dec-2017 23:39:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:39:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[17-Dec-2017 23:39:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:39:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[17-Dec-2017 23:39:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:39:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[17-Dec-2017 23:46:37 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:46:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:46:37 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:46:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:46:37 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:46:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:46:37 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:46:37 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:46:55 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:46:55 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:46:56 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:46:56 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:46:56 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:46:56 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:46:56 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:46:56 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:46:57 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:46:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:46:57 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:46:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:46:57 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:46:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:46:57 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:46:57 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:46:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:46:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[17-Dec-2017 23:46:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:46:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[17-Dec-2017 23:46:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:46:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[17-Dec-2017 23:46:58 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:46:58 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[17-Dec-2017 23:54:32 Europe/Berlin] PHP Notice:  Undefined index: email in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 49
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 5
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:54:36 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:55:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:55:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:55:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:55:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:55:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:55:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:55:04 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:55:04 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:01 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:01 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:56:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:56:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:56:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:56:02 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:02 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:06 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:56:06 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:56:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:56:06 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:56:06 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:06 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:56:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:56:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:56:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:56:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:56:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 67
+[17-Dec-2017 23:56:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:56:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 76
+[17-Dec-2017 23:56:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 85
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 5
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:56:59 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 5
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:57:48 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 5
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:58:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 5
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:58:44 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:59:23 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 5
+[17-Dec-2017 23:59:23 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:59:23 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:59:24 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:59:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:59:24 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:59:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:59:24 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:59:24 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:59:27 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 5
+[17-Dec-2017 23:59:27 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:59:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 42
+[17-Dec-2017 23:59:27 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:59:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 50
+[17-Dec-2017 23:59:27 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:59:27 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 59
+[17-Dec-2017 23:59:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[17-Dec-2017 23:59:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\updateOdredjenog.php on line 68
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[18-Dec-2017 00:00:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[18-Dec-2017 00:09:43 Europe/Berlin] PHP Notice:  Undefined variable: connection in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 9
+[18-Dec-2017 00:09:43 Europe/Berlin] PHP Notice:  Undefined index: id in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 9
+[18-Dec-2017 00:09:43 Europe/Berlin] PHP Notice:  Undefined index: naziv in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 9
+[18-Dec-2017 00:09:43 Europe/Berlin] PHP Notice:  Undefined index: vrednost in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 9
+[18-Dec-2017 00:09:43 Europe/Berlin] PHP Notice:  Undefined index: opis in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 9
+[18-Dec-2017 00:09:43 Europe/Berlin] PHP Notice:  Undefined index: materijal in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 9
+[18-Dec-2017 00:09:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:42
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php(9): Users::update(NULL, NULL, '', '', '', '1', '')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 42
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 60
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 68
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 77
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[18-Dec-2017 00:15:26 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 86
+[18-Dec-2017 00:20:54 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\delete.php on line 5
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 59
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 67
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 76
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[18-Dec-2017 00:22:17 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 85
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 58
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 58
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 66
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 66
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 75
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 75
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 84
+[18-Dec-2017 00:22:28 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 84
+[18-Dec-2017 00:22:49 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\delete.php on line 5
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 58
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 58
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 66
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 66
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 75
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 75
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 84
+[18-Dec-2017 00:39:32 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 84
+[18-Dec-2017 01:18:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:74
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php(13): Users->proveriMejl(Object(mysqli), 'kac', 'ccc', 'a@asd.com', '2')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 74
+[18-Dec-2017 01:19:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:74
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php(13): Users->proveriMejl(Object(mysqli), 'kgk', 'hgfg', 'kattysmiley@gma...', '0')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 74
+[18-Dec-2017 01:20:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:74
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php(13): Users->proveriMejl(Object(mysqli), 'kgk', 'hgfg', 'kattysmiley@gma...', '0')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 74
+[18-Dec-2017 01:20:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:74
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php(13): Users->proveriMejl(Object(mysqli), 'fsdff', 'sfggs', 'kattysmiley@gma...', '1')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 74
+[18-Dec-2017 01:23:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php:74
+Stack trace:
+#0 D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\index.php(13): Users->proveriMejl(Object(mysqli), 'afa', 'fafafa', 'kattysmiley@gma...', '2')
+#1 {main}
+  thrown in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\models\user.php on line 74
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 58
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 58
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 66
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 66
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 75
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 75
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 84
+[18-Dec-2017 01:29:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 84
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Undefined index: mail in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 5
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 58
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 58
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 66
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 66
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 75
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 75
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Undefined offset: 0 in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 84
+[18-Dec-2017 01:33:21 Europe/Berlin] PHP Notice:  Trying to get property of non-object in D:\Users\Katarina\Desktop\xampp\htdocs\KatarinaMarkovic\update.php on line 84
